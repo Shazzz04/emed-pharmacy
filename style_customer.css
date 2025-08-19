@@ -1,0 +1,49 @@
+/* ===== General Styles ===== */
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #f9fff9;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+    background-color: #28a745 !important; /* green navbar */
+}
+.navbar-brand, 
+.nav-link {
+    color: #fff !important;
+    font-weight: 500;
+}
+.nav-link:hover {
+    color: #d4f8d4 !important;
+}
+
+/* ===== Hero Section (Index Page) ===== */
+.hero {
+    background: linear-gradient(135deg, #28a745, #218838);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+.hero h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.hero p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+.hero a.btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+}
+
+/* ===== Footer ===== */
+footer {
+    background-color: #28a745;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
