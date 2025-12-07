@@ -40,6 +40,28 @@
 | `header.php` / `footer.php` | Common page layout elements                   |
 
 ## 🛠 How to Run Locally
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Shazzz04/emed-pharmacy.git
+
+1. Start your local server (XAMPP/WAMP/MAMP):  
+   - Enable **Apache** and **MySQL**.
+
+2. Import the database:  
+   - Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
+   - Create a new database (example: `emedpharmacy`).  
+   - Import the provided database SQL file.
+
+3. Move the project into your server directory:  
+   - Example: `xampp/htdocs/emed-pharmacy`.
+
+4. Open the project in your browser:  
+   - [http://localhost/emed-pharmacy/](http://localhost/emed-pharmacy/)
+
+## 📸 Screenshots
+You can add screenshots of homepage, login, product pages, cart, admin dashboard, etc., here.
+
+## 👩‍💻 About the Developer
+Created by **Shaza Faizer**, a final-year Software Engineering student with experience in PHP web development, UI/UX design, and practical web solutions.
+
+## 📬 Contact
+- 📧 Email: `shazafaizer20@gmail.com`  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shaza-faizer-bb5abb2b4)
+
