@@ -117,28 +117,18 @@ Here are a few improvements planned for future updates:
 - **API Integration**  
   Convert project into REST API-friendly architecture for future mobile app use.
 
-
----
-
-# ✅ **3. Badges Section (Tech Stack + Repo Stats)**
-
-These make your README look extra clean and professional.
-
-```markdown
-## 🏷️ Badges
-
-### 🛠 Tech Stack
+🏷️ Badges
+🛠 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Repo Stats
+📊 Repo Stats
 ![Github Stars](https://img.shields.io/github/stars/Shazzz04/emed-pharmacy?style=for-the-badge)
 ![Github Forks](https://img.shields.io/github/forks/Shazzz04/emed-pharmacy?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/Shazzz04/emed-pharmacy?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Shazzz04/emed-pharmacy?style=for-the-badge)
-
 
 ## 👩‍💻 About the Developer
 
