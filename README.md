@@ -50,13 +50,14 @@
    - Import the provided database SQL file.
 
 3. Move the project into your server directory:  
-   - Example: `xampp/htdocs/emed-pharmacy`.
+   - Example: `xampp/htdocs/pharmacy`.
 
 4. Open the project in your browser:  
-   - [http://localhost/emed-pharmacy/](http://localhost/emed-pharmacy/)
+   - [http://localhost/emed-pharmacy/](http://localhost/pharmacy/)
 
 ## 📸 Screenshots
-You can add screenshots of homepage, login, product pages, cart, admin dashboard, etc., here.
+
+
 
 ## 👩‍💻 About the Developer
 Created by **Shaza Faizer**, a final-year Software Engineering student with experience in PHP web development, UI/UX design, and practical web solutions.
