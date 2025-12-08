@@ -92,7 +92,12 @@
 
 
 ## 👩‍💻 About the Developer
-Created by **Shaza Faizer**, a final-year Software Engineering student with experience in PHP web development, UI/UX design, and practical web solutions.
+## 👩‍💻 About the Developer
+
+**Shaza Faizer** is a final-year Software Engineering student with hands-on experience in **PHP web development**, **UI/UX design**, and building **practical, user-friendly web solutions**. Passionate about creating responsive and dynamic web applications, Shaza focuses on combining **clean code, intuitive interfaces, and functional design** to deliver seamless user experiences.  
+
+Actively pursuing opportunities in **full-stack web development, UI/UX projects, and practical software solutions**.
+
 
 ## 📬 Contact
 - 📧 Email: `shazafaizer20@gmail.com`  
