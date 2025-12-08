@@ -57,6 +57,38 @@
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page 1](screenshots/homepage1.png)  
+![Home Page 2](screenshots/homepage2.png)  
+![Home Page 3](screenshots/homepage3.png)  
+![Home Page 4](screenshots/homepage4.png)  
+![Home Page 5](screenshots/homepage5.png)  
+![Home Page 6](screenshots/homepage6.png)  
+
+### 🔐 Login Page
+![Login Page](screenshots/loginpage.png)  
+
+### 🔐 Register Page
+![Register Page](screenshots/registerpage.png)  
+
+### 🛒 Product Pages
+![Product Page 1](screenshots/productpage1.png)  
+![Product Page 2](screenshots/productpage2.png)  
+
+### 🧾 Checkout Page
+![Checkout Page](screenshots/checkoutpage.png)  
+
+### 🏢 Admin Dashboard
+![Admin Dashboard 1](screenshots/admindashboard1.png)  
+![Admin Dashboard 2](screenshots/admindashboard2.png)  
+![Admin Dashboard 3](screenshots/admindashboard3.png)  
+![Admin Dashboard 4](screenshots/admindashboard4.png)  
+![Admin Dashboard 5](screenshots/admindashboard5.png)  
+![Admin Dashboard 6](screenshots/admindashboard6.png)  
+
+### 💊 Upload Prescription
+![Upload Prescription](screenshots/uploadprescription.png)  
+
 
 
 ## 👩‍💻 About the Developer
