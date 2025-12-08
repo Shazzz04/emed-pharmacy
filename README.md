@@ -118,6 +118,7 @@ Here are a few improvements planned for future updates:
   Convert project into REST API-friendly architecture for future mobile app use.
 
 🏷️ Badges
+
 🛠 Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
