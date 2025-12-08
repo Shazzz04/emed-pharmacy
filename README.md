@@ -90,8 +90,6 @@
 ![Upload Prescription](screenshots/uploadprescription.png)  
 
 
-
-## 👩‍💻 About the Developer
 ## 👩‍💻 About the Developer
 
 **Shaza Faizer** is a final-year Software Engineering student with hands-on experience in **PHP web development**, **UI/UX design**, and building **practical, user-friendly web solutions**. Passionate about creating responsive and dynamic web applications, Shaza focuses on combining **clean code, intuitive interfaces, and functional design** to deliver seamless user experiences.  
